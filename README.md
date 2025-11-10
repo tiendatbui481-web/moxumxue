@@ -1,2 +1,2 @@
 # moxumxue
-npc
+do mixi
